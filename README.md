@@ -33,4 +33,4 @@ public class Amir {
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirjon-1&show_icons=true&theme=dark)
