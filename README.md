@@ -7,7 +7,6 @@ Currently working on an AI coding assistant and student researcher!
 ## 🔭 What I'm Building
 - **AI Code Review Assistant** - Fine-tuning LLMs for intelligent code review
 - **Campus Ride-Share Platform** - Leading development for cross-platform mobile app (React Native + Bun)
-- **Open Source Contributions** - Active contributor to React Native ecosystem
 
 ## 💻 Tech Stack
 ```java
