@@ -27,6 +27,7 @@ public class Amir {
 
 ## 📫 Let's Connect
 - Portfolio: [amir-eta.vercel.app](https://amir-eta.vercel.app)
+  (Due to customer privacy, most of my projects aren't on my github, but you can see them on my portfolio website)
 - LinkedIn: [linkedin.com/in/amirjon](https://linkedin.com/in/amirjon)
 - Email: amirjon5321@gmail.com
 
