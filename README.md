@@ -2,7 +2,7 @@
 
 **Computer Science & Statistics @ Williams College** | Building products that scale
 
-Currently working on an AI coding assistant and student researcher!
+Currently working on an AI coding assistant and am a student researcher!
 
 ## 🔭 What I'm Building
 - **AI Code Review Assistant** - Fine-tuning LLMs for intelligent code review
@@ -30,7 +30,6 @@ public class Amir {
   (Due to customer privacy, most of my projects aren't on my github, but you can see them on my portfolio website)
 - LinkedIn: [linkedin.com/in/amirjon](https://linkedin.com/in/amirjon)
 - Email: amirjon5321@gmail.com
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirjon-1&show_icons=true&theme=dark)
