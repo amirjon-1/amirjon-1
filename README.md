@@ -31,5 +31,3 @@ public class Amir {
 - LinkedIn: [linkedin.com/in/amirjon](https://linkedin.com/in/amirjon)
 - Email: amirjon5321@gmail.com
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirjon-1&show_icons=true&theme=dark)
