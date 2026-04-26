@@ -22,7 +22,7 @@ public class Amir {
 
 ## 📊 Current Focus
 - 🤖 ML Engineering
-- 📱 Cross-platform mobile development
+- 📱 Software development
 - 💡 Contributing to open source
 
 ## 📫 Let's Connect
